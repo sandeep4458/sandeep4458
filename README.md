@@ -4,13 +4,13 @@
 Developer
 -----------------
 
- I am fulltime software developer with 6 years of experience in Software Development and Development Advocacy. In my spare time i play with my pets and browse internet.
+ I am fulltime software developer with 6 years of experience in Software Development and Development Advocacy. In my spare time i play with outdoor games and browse internet.
 
 * 🌍  I'm based in california
 * 🖥️  See my portfolio at [Website](http://file:///C:/Users/Sandeep/Desktop/personal%20portfolio-1/index.html)
 * ✉️  You can contact me at [sandeep.ai70905@gmail.com](mailto:sandeep.ai70905@gmail.com)
-* 🧠  I'm learning Everything about technology
-* 🤝  I'm open to collaborating on Challenging projects
+* 🧠  I'm learning Everything about never ending technology.
+* 🤝  I'm open to collaborating on Challenging projects.
 
 ### Skills
 
