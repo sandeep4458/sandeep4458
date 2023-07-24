@@ -4,7 +4,7 @@
 Software Developer !!!
 -----------------
 
- I am full time software developer with 7 years of experience in  Software Development and Development Advocacy. In my spare time I play with outdoor games and browse internet.
+ I am full time software developer with 6 years of experience in  Software Development and Development Advocacy. In my spare time I play with outdoor games and browse internet.
 
 * 🌍  I'm based in california,united states of America.
 * 🖥️  See my portfolio at [Website](http://file:///C:/Users/Sandeep/Desktop/personal%20portfolio-1/index.html)
