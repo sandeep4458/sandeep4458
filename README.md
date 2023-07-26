@@ -6,7 +6,7 @@ Software Developer !!!
 
  I am full time software developer with 6 years of experience in  Software Development and Development Advocacy. In my spare time I play with outdoor games and browse internet.
 
-* 🌍  I'm based in caa,united states of America.
+* 🌍  I'm based in ca,united states of America.
 * 🖥️  See my portfolio at [Website](http://file:///C:/Users/Sandeep/Desktop/personal%20portfolio-1/index.html)
 * ✉️  You can contact me at [sandeep.ai70905@gmail.com](mailto:sandeep.ai70905@gmail.com)
 * 🧠  I'm learning Everything about never ending technology.
